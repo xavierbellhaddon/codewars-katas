@@ -1,3 +1,9 @@
+// Title: Counting Duplicates
+
+// Link: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+
+// Solution:
+
 function duplicateCount(text) {
     let count = 0;
     const splitText = text.toUpperCase().split('');
